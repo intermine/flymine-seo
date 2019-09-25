@@ -1,0 +1,3 @@
+user-agent: *
+
+Sitemap: http://www.flymine.org/sitemap-index.xml
